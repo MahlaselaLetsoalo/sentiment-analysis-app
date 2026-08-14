@@ -138,21 +138,21 @@ Confidence: 96.24%
 
 Clone the repository using:
 
-    **git clone YOUR_GITHUB_REPOSITORY_URL**
+    git clone https://github.com/MahlaselaLetsoalo/sentiment-analysis-app.git
 
 Navigate to the project using:
 
-    *cd "Sentiment Analysis System"**
+    cd "Sentiment Analysis System"
 
 Install the required dependencies
 
-    **python -m pip install -r requirements.txt**
+    python -m pip install -r requirements.txt
 
 ## Running the Application
 
 From the project's root folder, run:
 
-    **python -m streamlit run App/app.py**
+    python -m streamlit run App/app.py
 
 --------------------
 
