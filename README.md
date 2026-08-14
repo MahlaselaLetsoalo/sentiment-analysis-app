@@ -156,8 +156,6 @@ From the project's root folder, run:
 
 --------------------
 
-## Author
-
 **Mahlasela Peter Letsoalo**,
 Computer Science Graduate
 
